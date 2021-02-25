@@ -129,6 +129,7 @@ class ProfileHeader extends StatelessWidget {
           height: 200,
           decoration: BoxDecoration(
             color: Colors.white,
+            
           ),
         ),
         if (actions != null)
